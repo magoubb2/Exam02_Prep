@@ -10,3 +10,7 @@
 |   **lvl03**  |                                     **Exercises**                                   |
 |:------------:|:-----------------------------------------------------------------------------------:|
 | Ft_atoi_base |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl03/ft_atoi_base/ft_atoi_base.c|
+
+|   **lvl03**  |                                     **Exercises**                                   |
+|:------------:|:-----------------------------------------------------------------------------------:|
+|    Fprime    |      https://github.com/magoubb2/Exam02_Prep/tree/master/lvl04/fprime/fprime.c      |
