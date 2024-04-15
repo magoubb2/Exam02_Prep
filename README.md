@@ -5,4 +5,8 @@
 |   **lvl02**  |                                     **Exercises**                                   |
 |:------------:|:-----------------------------------------------------------------------------------:|
 | Alpha_mirror |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/alpha_mirror/alpha_mirror.c|
-|     max      |         https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/max/max.c         |
+|     Max      |         https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/max/max.c         |
+
+|   **lvl03**  |                                     **Exercises**                                   |
+|:------------:|:-----------------------------------------------------------------------------------:|
+| Ft_atoi_base |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl03/ft_atoi_base/ft_atoi_base.c|
