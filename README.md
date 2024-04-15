@@ -2,6 +2,7 @@
 >This is a repo of my practice exercise for the exam rank02.
 
 ## Exercises
-|   **lvl02**  | **Exercises** |
-|:------------:|:-------------:|
-| Alpha_mirror |               |
+|   **lvl02**  |                             **Exercises**                            |
+|:------------:|:--------------------------------------------------------------------:|
+| Alpha_mirror |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/alpha_mirror|
+|     max      |    https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/max     |
