@@ -8,6 +8,8 @@
 |     Max      |         https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/max/max.c         |
 |     Do_op    |       https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/do_op/do_op.c       |
 |  ft_strcmp   |  https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strcmp/ft_strcmp.c    |
+|  ft_strcspn  |  https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strcspn/ft_strcspn.c  |
+|  ft_strrev   |   https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strrev/ft_strrev.c   |
 |   **lvl03**  |                                     **Exercises**                                   |
 | Ft_atoi_base |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl03/ft_atoi_base/ft_atoi_base.c|
 |   **lvl03**  |                                     **Exercises**                                   |
