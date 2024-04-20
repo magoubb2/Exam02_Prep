@@ -1,6 +1,9 @@
 
 #include <stdio.h>
 
+/* This gave me the rigth output during the exam but was not passing. */
+/* But on my M2 it's outputing garbage value. */
+
 int ft_strlen(char *str)
 {
     int i = 0;

@@ -12,19 +12,26 @@ int ft_strlen(char *str)
 
 char *ft_strrev(char *str)
 {
+    // Initialise variable that will be the start of the string.
     int i = 0;
-    int len = ft_strlen(str);
-    int j = len - 1;
+    // Initialise the variable that will start at the end of the string.
+    int len = ft_strlen(str) - 1;
+    // Temporary variable that will hold the current character we want to switch.
     char tmp;
 
-    while (i <= j)
+    // Loop until i is not longer less than len.
+    while (i <= len)
     {
+        // tmp becomes the current character in str[i].
         tmp = str[i];
-        str[i] = str[j];
-        str[j] = tmp;
+        // Then str[i] becomes the current str[len].
+        str[i] = str[len];
+        // And the current position of str[len] becomes the tmp character.
+        str[len] = tmp;
         i++;
-        j--;
+        len--;
     }
+    // Return the transformed string.
     return (str);
 }
 
