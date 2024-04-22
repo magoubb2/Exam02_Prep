@@ -10,6 +10,8 @@
 |  ft_strcmp   |  https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strcmp/ft_strcmp.c    |
 |  ft_strcspn  |  https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strcspn/ft_strcspn.c  |
 |  ft_strrev   |   https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/ft_strrev/ft_strrev.c   |
+|    inter     |       https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/inter/inter.c       |
+|    union     |       https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/union/union.c       |
 |   **lvl03**  |                                     **Exercises**                                   |
 | Ft_atoi_base |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl03/ft_atoi_base/ft_atoi_base.c|
 |   **lvl03**  |                                     **Exercises**                                   |
