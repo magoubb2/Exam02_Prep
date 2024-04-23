@@ -13,6 +13,7 @@
 |    inter     |       https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/inter/inter.c       |
 |    union     |       https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/union/union.c       |
 |   swap_bits  |   https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/swap_bits/swap_bits.c   |
+| reverse_bits |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl02/reverse_bits/reverse_bits.c|
 |   **lvl03**  |                                     **Exercises**                                   |
 | Ft_atoi_base |https://github.com/magoubb2/Exam02_Prep/tree/master/lvl03/ft_atoi_base/ft_atoi_base.c|
 |   **lvl03**  |                                     **Exercises**                                   |
