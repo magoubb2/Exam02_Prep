@@ -39,9 +39,9 @@ int	ft_atoi_base(const char *str, int str_base)
 	return (res * sign);
 }
 
-// #include <stdio.h>
+#include <stdio.h>
 
-// int main(void)
-// {
-// 	printf("%i\n", ft_atoi_base("-A", 16));
-// }
+int main(void)
+{
+	printf("%i\n", ft_atoi_base("-A", 16));
+}
